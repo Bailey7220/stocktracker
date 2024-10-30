@@ -1,0 +1,10 @@
+{
+  "symbols": ["SPLG", "AVUV"],
+  "api_url": "https://www.alphavantage.co/query",
+  "api_key": "WBU1JHXHQJQYQZ7Y",
+  "thresholds": {
+  "SPLG": {"low": 64, "high": 72},
+  "AVUV": {"low": 92, "high": 100}
+  }
+
+}
